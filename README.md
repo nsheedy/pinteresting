@@ -4,4 +4,4 @@ This is the Pinteresting application for by Baby Olivia
 
 [*One Month Learning Rails*](http://onemonthrails.com)
 
-By [Nicholas Sheedy]
+By [Nicholas Sheedy] for my first baby girl. 
