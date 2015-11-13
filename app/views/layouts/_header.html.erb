@@ -15,6 +15,7 @@
   <div class="collapse navbar-collapse navbar-ex1-collapse">
     <ul class="nav navbar-nav navbar-right">
       <li><%= link_to "Home", root_path %></li>
+      <li><%= link_to 'Add a Photo', new_pin_path %></li>
       <li><%= link_to "About Me", about_path %></li>
       <li><%= link_to "My Family", family_path %></li>
          <% if user_signed_in? %>
